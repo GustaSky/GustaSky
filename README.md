@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">i am a software enginner who wants make his and the others lifes easier with codes.<br><br><br><br>I love build new projects and post some of them here.</p>
+<img align="right" height="170" src="https://media.tenor.com/qvSmcpS-kdIAAAAi/n-harmonia-n.gif"  />
 
 ###
 
-<img align="right" height="170" src="https://media.tenor.com/qvSmcpS-kdIAAAAi/n-harmonia-n.gif"  />
+<p align="left">i am a software enginner who wants make his and the others lifes easier with codes.<br><br><br><br>I love build new projects and post some of them here.</p>
 
 ###
 
