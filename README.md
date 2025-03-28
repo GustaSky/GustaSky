@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<p align="left">• Email: gustavowalker102 <at> gmail.com<br><br>• Discord: skyblue6134</p>
+<p align="left">• Email: gustavowalker102@gmail.com<br><br>• Discord: skyblue6134</p>
 
 ###
 
@@ -50,7 +50,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gustavo-walker-1a230b309/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
