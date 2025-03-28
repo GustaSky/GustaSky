@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="170" src="https://media.tenor.com/qvSmcpS-kdIAAAAi/n-harmonia-n.gif"  />
+<p align="left">i am a software enginner who wants make his and the others lifes easier with codes.<br><br><br><br>I love build new projects and post some of them here.</p>
 
 ###
 
-<p align="left">i am a software enginner who wants make his and the others lifes easier with codes.<br><br><br><br>I love build new projects and post some of them here.</p>
+<img align="right" height="170" src="https://media.tenor.com/qvSmcpS-kdIAAAAi/n-harmonia-n.gif"  />
 
 ###
 
@@ -22,9 +22,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -46,9 +44,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/gustavo-walker-1a230b309/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
